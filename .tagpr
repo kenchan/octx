@@ -7,3 +7,4 @@ versionFile = "Cargo.toml"
 changelog = true
 command = "cargo update -p octx"
 draft = true
+	releaseBranch = master
