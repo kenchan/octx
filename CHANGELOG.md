@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.6.5](https://github.com/kenchan/octx/compare/0.6.4...0.6.5) - 2025-09-30
+
 ## [0.6.4](https://github.com/kenchan/octx/compare/0.6.3...0.6.4) - 2025-09-30
 
 ## [0.6.3](https://github.com/kenchan/octx/compare/0.6.2...0.6.3) - 2025-09-30
